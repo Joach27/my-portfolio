@@ -1,20 +1,57 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Komovi Joachin AGBEVIADE's Portfolio
 
-# Run and deploy your AI Studio app
+A dynamic and visually appealing portfolio for Komovi Joachin AGBEVIADE, a Software developer, Data Scientist, and ML/AI Engineer, built with React and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/drive/1x81v3BDGa4irCiLYPcvvAzLjFxgfLQ-W
+[Link to live demo](https://joach27.github.io/my-portfolio/)
 
-## Run Locally
+## Built With
 
-**Prerequisites:**  Node.js
+* [React](https://reactjs.org/)
+* [Vite](https://vitejs.dev/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
+## Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Profile:** A brief introduction of myself.
+- **Projects:** A list of my projects with descriptions, technologies used, and links to the source code.
+- **Skills:** A list of my skills, categorized for easy reading.
+- **Professional Experience:** My work experience.
+- **Education:** My educational background.
+- **Certifications:** A list of my certifications.
+- **Languages:** My language proficiency.
+- **Theme Toggle:** Light and dark mode support.
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Joach27/my-portfolio.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the app
+   ```sh
+   npm run dev
+   ```
+
+## Contact
+
+Komovi Joachin AGBEVIADE - agbeviadekomivi@gmail.com
+
+Project Link: [https://github.com/Joach27/my-portfolio](https://github.com/Joach27/my-portfolio)
