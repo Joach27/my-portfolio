@@ -4,7 +4,7 @@ A dynamic and visually appealing portfolio for Komovi Joachin AGBEVIADE, a Softw
 
 ## Live Demo
 
-[Link to live demo](https://joach27.github.io/my-portfolio/)
+[Visit my portfolio](https://my-portfolio-two-eosin-33.vercel.app/)
 
 ## Built With
 
