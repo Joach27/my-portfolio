@@ -5,10 +5,11 @@ import SkillBadge from './components/SkillBadge';
 import { PhoneIcon, MailIcon, LinkedInIcon, GithubIcon, LocationIcon, CalendarIcon, LinkIcon } from './components/icons';
 import ThemeToggle from './components/ThemeToggle';
 
+
 const cvData: CVData = {
   name: "Komovi Joachin AGBEVIADE",
   title: "Software developer, Data Scientist, ML/AI Engineer",
-  photoUrl: "https://picsum.photos/seed/johndoe/200/200",
+  photoUrl: "https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477",
   contact: {
     phone: "+212 0774467782",
     email: "agbeviadekomivi@gmail.com",
